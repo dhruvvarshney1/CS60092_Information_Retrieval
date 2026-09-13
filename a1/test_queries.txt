@@ -1,0 +1,18 @@
+# Test Boolean queries -- one per line
+# Derived in part from cran.qry (queries .I 001 and .I 002)
+similarity AND laws
+aeroelastic AND models
+heated AND aircraft
+structural AND aeroelastic
+high OR speed
+boundary AND layer
+slipstream AND wing
+shock AND waves
+supersonic OR hypersonic
+turbulent AND flows
+buckling AND shells
+pressure AND distributions
+cylinders OR spheres
+aerodynamics AND experimental
+xyzzy AND flow
+flow AND NOT turbulent
